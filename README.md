@@ -1,11 +1,11 @@
 # seven_segment
 #### [Github](https://github.com/KAEDEKUKKI/seven_segment)
 ## 實驗內容
-- 1) Design an One bit BCD to 7 segment display with
-- 1.1) negative edge synchronous reset (highest priority)
-- 1.2) positive edge synchronous Load
-- 2) 7 segment display is common Anode type
-- 3) Writing the Verilog code and testbench
+-  Design an One bit BCD to 7 segment display with
+-  negative edge synchronous reset (highest priority)
+-  positive edge synchronous Load
+-  7 segment display is common Anode type
+-  Writing the Verilog code and testbench
 ## 程式碼
 BCD
 ```verilog=5
