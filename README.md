@@ -55,6 +55,6 @@ always @(In) case (In)
 endcase
 ```
 ## 結果
-![](https://imgur.com/undefined.png)
+![](https://imgur.com/l7NjmE2.png)
 ## 心得
 >我的想法是BCD跟七段顯示器中間用dff做連結，一開始只有想法但怎麼結合卻遲遲做不到，後來參考了第一次作業的方式後，才恍然大悟。
